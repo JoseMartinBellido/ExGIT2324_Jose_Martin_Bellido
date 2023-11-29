@@ -5,10 +5,10 @@ html{
 }
 
 body{
-    background-color: #fdfdfd;
+    background-color: #496ad8;
     height: 100%;
     margin:0;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: “Lucida Console”, “Courier New”, monospace;
 }
 
 .header{
@@ -41,14 +41,12 @@ body{
 
 .contenido{
     padding: 15px;
-    font-size:40px;
     text-align: center;
-    background-color: purple;
 }
 
 .footer{
     
-    background-color: yellow;
+    background-color: #aeb5ce;
     padding: 20px;
     clear: both;
 }
